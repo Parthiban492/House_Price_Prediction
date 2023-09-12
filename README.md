@@ -100,7 +100,10 @@ This selection was made because the Random Forest model demonstrated the highest
 
 <img src=https://github.com/Parthiban492/House_Price_Prediction/blob/430fac3cc251894976203ef1929ceb265d41f06d/Presentation/Screen%20shot%20of%20the%20website%20(1).jpeg height=800 width=1200>
 
-Note: The screenshot above provides a visual representation of our house price prediction website. Users can input property details and receive predictions for house prices using our machine learning model.
+Note: The screenshot above provides a visual representation of our house price prediction website. Users can input property details and receive predictions for house prices using our machine-learning model.
+
+**Price-Prediction based on required feature**
+<img src=https://github.com/Parthiban492/House_Price_Prediction/blob/main/Presentation/Output.png height=800 width=1200>
 <be>
 
 ## Conclusion:
